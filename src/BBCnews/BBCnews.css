@@ -1,0 +1,143 @@
+.bg-news {
+    width: 100%;
+    height: 100vh;
+}
+
+.bg-header {
+    width: 100%;
+    height: 70px;
+    background-color: #0076b6;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 30px;
+}
+
+.bg-header h1 {
+    color: white;
+    font-weight: 700;
+}
+
+.search-op {
+    width: fit-content;
+    height: 40px;
+    background-color: white;
+    border: 2px solid #0076b6;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.search-op input {
+    padding-left: 10px;
+    outline: none;
+    background-color: transparent;
+    border: none;
+}
+
+.search-op button {
+    height: 100%;
+    padding: 5px;
+    background-color: rgb(120, 222, 240);
+}
+
+.bg-main {
+    width: 100%;
+    min-height: 100vh;
+    height: fit-content; 
+    padding: 50px;
+    background-color: white;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: start !important;
+    gap: 40px;
+}
+
+.lates {
+    padding: 10px;
+    margin: 0 !important;
+    width: 100%;
+    font-weight: 600;
+    background-color: white;
+    height: fit-content;
+    text-align: center;
+}
+
+.bg-card {
+    text-decoration: none;
+    width: 300px;
+    height: 400px;
+    overflow: hidden;
+    border: 5px solid #0076b6;
+    background-color: #0076b636;
+    /* border-radius: 15px; */
+    transition: 0.5s;
+}
+
+.bg-card:hover {
+    transform: scale(1.01);
+    box-shadow: 0 0 10px rgb(146, 146, 146);
+}
+
+.bg-card img {
+    width: 300px;
+    max-height: 200px;
+    height: fit-content;
+    background-position: center;
+}
+
+.bg-card h4 {
+    color: black;
+    font-size: large;
+    margin: 5px;
+    padding-left: 5px;
+    font-weight: 600;
+}
+
+.bg-card p {
+    color: black;
+    margin: 5px;
+    padding: 5px;
+    text-align: justify;
+}
+
+@media (max-width:430px) {
+    .bg-header {
+        width: 100%;
+        height: 50px;
+        padding: 0 15px;
+    }
+
+    .bg-header h1 {
+        font-size: x-large;
+    }
+
+    .search-op {
+        width:150px;
+        height: 35px;
+        display: flex;
+        background-color: white;
+        border: 2px solid #0076b6;
+        border-radius: 10px;
+        overflow: hidden;
+    }
+    
+    .search-op input {
+        width: 80%;
+        padding-left: 10px;
+        outline: none;
+        background-color: transparent;
+        border: none;
+        border-right: none;
+    }
+    
+    .search-op button {
+        width: 20%;
+        height: 100%;
+        background-color: rgb(120, 222, 240);
+        border-left: none;
+    }
+    .search-op img {
+        height: 100%;
+   }
+}

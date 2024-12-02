@@ -1,0 +1,290 @@
+.header {
+    width: 100%;
+    height: 50px;
+    padding: 20px;
+    background: #000018;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 100;
+    position: fixed;
+}
+
+.header h1 {
+    padding-top: 10px;
+    padding-left: 50px;
+    font-weight: 700;
+    color: white;
+}
+
+.header ul {
+    padding-right: 50px;
+    display: flex;
+    padding-top: 15px;
+    gap: 20px;
+    list-style: none;
+}
+
+.header ul li {
+    padding: 5px;
+    cursor: pointer;
+    color: white;
+    text-decoration: none;
+    transition: 0.5s;
+}
+
+.header ul li:hover {
+    color: #00b4d8;
+}
+
+.header ul .active{
+        color: #90e0ef;
+        border-bottom: 2px solid #90e0ef;
+}
+
+.navli{
+    color: white;
+    text-decoration: none;
+}
+
+.box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.items {
+    width: 100%;
+    height: 100vh !important;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.header label {
+    display: none;
+}
+
+@media (max-width:1445px) {
+    .items {
+        width: 1445px;
+        height: 100vh;
+    }
+
+    .header {
+        width: 1440px;
+    }
+}
+
+@media (max-width:1030px) {
+
+    .header {
+        width: 1024px;
+    }
+}
+
+@media (max-width:775px) {
+
+    /* menubar */
+    .header label {
+        display: block;
+        position: absolute;
+        right: 5%;
+        top: -40%;
+        padding: 5px;
+    }
+
+    #checkbox {
+        display: none;
+        z-index: -1;
+    }
+
+    .checkbox {
+        display: none;
+        z-index: 100;
+    }
+
+    .toggle {
+        width: 30px;
+        height: 30px;
+        /* background-color: red; */
+        cursor: pointer;
+        border-radius: 5px;
+        position: relative;
+        display: block;
+        z-index: 100;
+    }
+
+    .common {
+        position: absolute;
+        width: 20px;
+        height: 3px;
+        left: 50%;
+        transform: translate(-50%);
+        background-color: #0077b6;
+        transition: 0.5s ease;
+    }
+
+    .top-line {
+        left: 15px;
+        height: 3px;
+        top: 7px;
+    }
+
+    .middle-line {
+        left: 15px;
+        height: 3px;
+        top: 13.5px;
+    }
+
+    .bottom-line {
+        left: 15px;
+        height: 3.5px;
+        bottom: 7px;
+    }
+
+    .toggle:hover .common {
+        background-color: #6ec9fa;
+    }
+
+    .checkbox:checked~.toggle .top-line {
+        left: 12px;
+        top: 68%;
+        transform: rotate(45deg)translate(-50%);
+    }
+
+    .checkbox:checked~.toggle .middle-line {
+        transform: translate(5px);
+        opacity: 0;
+    }
+
+    .checkbox:checked~.toggle .bottom-line {
+        left: 12px;
+        bottom: 68%;
+        transform: rotate(-45deg)translate(-50%);
+    }
+
+    /* navbar */
+
+    .ulist {
+        right: -30%;
+        position: absolute;
+        transition: 0.5s;
+    }
+
+    .ulist ul {
+        display: block;
+        padding: 40px;
+        height: 100vh;
+        padding-bottom: 10px;
+        display: flex;
+        flex-direction: column;
+        /* justify-content: center; */
+        align-items: center;
+        position: absolute;
+        right: 0%;
+        top: 100%;
+        background: #00001860;
+        backdrop-filter: blur(10px);
+        /* z-index: -1; */
+    }
+
+    .ulistact {
+        right: 0%;
+    }
+
+    .background {
+        width: 768px;
+        height: 100vh;
+    }
+
+    .header {
+        width: 768px;
+        height: 50px;
+    }
+
+    .ulist {
+        right: -50%;
+        position: absolute;
+        transition: 0.5s;
+    }
+
+    .ulistact {
+        right: 0%;
+    }
+}
+
+@media (max-width:430px) {
+
+    .background {
+        width: 425px;
+        height: 100vh;
+    }
+
+    .header {
+        width: 425px;
+        height: 50px;
+    }
+
+    .header h1 {
+        padding: 0px;
+        margin: 10px;
+    }
+
+    .ulist {
+        right: -50%;
+        position: absolute;
+        transition: 0.5s;
+    }
+
+    .ulistact {
+        right: 0%;
+    }
+}
+
+@media (max-width:380px) {
+
+    .background {
+        width: 375px;
+        height: 100vh;
+    }
+
+    .header {
+        width: 375px;
+        height: 50px;
+    }
+
+    .ulist {
+        right: -50%;
+        position: absolute;
+        transition: 0.5s;
+    }
+
+    .ulistact {
+        right: 0%;
+    }
+}
+
+@media (max-width:325px) {
+
+    .background {
+        width: 320px;
+        height: 100vh;
+    }
+
+    .header {
+        width: 320px;
+        height: 50px;
+    }
+
+    .ulist {
+        right: -50%;
+        position: absolute;
+        transition: 0.5s;
+    }
+
+    .ulistact {
+        right: 0%;
+    }
+}

@@ -1,0 +1,12 @@
+button{
+    background: transparent;
+    outline: none;
+    border: none;
+    position: relative;
+}
+
+span{
+    position: absolute;
+    color: rgba(255, 255, 255, 0);
+}
+
