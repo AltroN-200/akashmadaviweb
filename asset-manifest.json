@@ -1,9 +1,10 @@
 {
   "files": {
-    "main.css": "/akashmadaviweb/static/css/main.ad7997e4.css",
-    "main.js": "/akashmadaviweb/static/js/main.cece7577.js",
+    "main.css": "/akashmadaviweb/static/css/main.e316a184.css",
+    "main.js": "/akashmadaviweb/static/js/main.39fdb754.js",
     "static/js/453.dc5c8313.chunk.js": "/akashmadaviweb/static/js/453.dc5c8313.chunk.js",
     "static/media/Akash.png": "/akashmadaviweb/static/media/Akash.3d15fadfe725ebdab98f.png",
+    "static/media/BG.jpg": "/akashmadaviweb/static/media/BG.db707de44e83c33c793d.jpg",
     "static/media/insta.png": "/akashmadaviweb/static/media/insta.b11816807f92875b2dbc.png",
     "static/media/whatsapp.png": "/akashmadaviweb/static/media/whatsapp.9ed7f5b78d6110dd4284.png",
     "static/media/twiter.png": "/akashmadaviweb/static/media/twiter.3e0a75ef03a7a0cd96c2.png",
@@ -12,8 +13,8 @@
     "static/media/fb.png": "/akashmadaviweb/static/media/fb.e055d095ac86954b8266.png",
     "static/media/react-icon.png": "/akashmadaviweb/static/media/react-icon.ba0a45475a29e8a8fd44.png",
     "static/media/snow.png": "/akashmadaviweb/static/media/snow.9957456da0445490c376.png",
+    "static/media/Email.jpg": "/akashmadaviweb/static/media/Email.f4c9457060f6280f63d9.jpg",
     "static/media/humidity.png": "/akashmadaviweb/static/media/humidity.608e68e324af46d5b702.png",
-    "static/media/BBC.jpg": "/akashmadaviweb/static/media/BBC.cce29db9912a68003bb5.jpg",
     "static/media/dark cloud.png": "/akashmadaviweb/static/media/dark cloud.a08e0fcd1ff9a71dc717.png",
     "static/media/rain.png": "/akashmadaviweb/static/media/rain.fea62e3beeb0049f5768.png",
     "static/media/moon clouds.png": "/akashmadaviweb/static/media/moon clouds.93b6d683256eed4d7acc.png",
@@ -33,12 +34,12 @@
     "static/media/cloud.png": "/akashmadaviweb/static/media/cloud.c26d84c0c395cebfe467.png",
     "index.html": "/akashmadaviweb/index.html",
     "static/media/search-icons.svg": "/akashmadaviweb/static/media/search-icons.75eba69e52221f0749961b8049f55824.svg",
-    "main.ad7997e4.css.map": "/akashmadaviweb/static/css/main.ad7997e4.css.map",
-    "main.cece7577.js.map": "/akashmadaviweb/static/js/main.cece7577.js.map",
+    "main.e316a184.css.map": "/akashmadaviweb/static/css/main.e316a184.css.map",
+    "main.39fdb754.js.map": "/akashmadaviweb/static/js/main.39fdb754.js.map",
     "453.dc5c8313.chunk.js.map": "/akashmadaviweb/static/js/453.dc5c8313.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ad7997e4.css",
-    "static/js/main.cece7577.js"
+    "static/css/main.e316a184.css",
+    "static/js/main.39fdb754.js"
   ]
 }
