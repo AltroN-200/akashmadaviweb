@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/akashmadaviweb/static/css/main.ad7997e4.css",
-    "main.js": "/akashmadaviweb/static/js/main.814e2658.js",
+    "main.js": "/akashmadaviweb/static/js/main.cece7577.js",
     "static/js/453.dc5c8313.chunk.js": "/akashmadaviweb/static/js/453.dc5c8313.chunk.js",
     "static/media/Akash.png": "/akashmadaviweb/static/media/Akash.3d15fadfe725ebdab98f.png",
     "static/media/insta.png": "/akashmadaviweb/static/media/insta.b11816807f92875b2dbc.png",
@@ -34,11 +34,11 @@
     "index.html": "/akashmadaviweb/index.html",
     "static/media/search-icons.svg": "/akashmadaviweb/static/media/search-icons.75eba69e52221f0749961b8049f55824.svg",
     "main.ad7997e4.css.map": "/akashmadaviweb/static/css/main.ad7997e4.css.map",
-    "main.814e2658.js.map": "/akashmadaviweb/static/js/main.814e2658.js.map",
+    "main.cece7577.js.map": "/akashmadaviweb/static/js/main.cece7577.js.map",
     "453.dc5c8313.chunk.js.map": "/akashmadaviweb/static/js/453.dc5c8313.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ad7997e4.css",
-    "static/js/main.814e2658.js"
+    "static/js/main.cece7577.js"
   ]
 }
