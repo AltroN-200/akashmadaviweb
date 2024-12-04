@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/akashmadaviweb/static/css/main.3d6b7765.css",
+    "main.css": "/akashmadaviweb/static/css/main.ad7997e4.css",
     "main.js": "/akashmadaviweb/static/js/main.cece7577.js",
     "static/js/453.dc5c8313.chunk.js": "/akashmadaviweb/static/js/453.dc5c8313.chunk.js",
     "static/media/Akash.png": "/akashmadaviweb/static/media/Akash.3d15fadfe725ebdab98f.png",
@@ -33,12 +33,12 @@
     "static/media/cloud.png": "/akashmadaviweb/static/media/cloud.c26d84c0c395cebfe467.png",
     "index.html": "/akashmadaviweb/index.html",
     "static/media/search-icons.svg": "/akashmadaviweb/static/media/search-icons.75eba69e52221f0749961b8049f55824.svg",
-    "main.3d6b7765.css.map": "/akashmadaviweb/static/css/main.3d6b7765.css.map",
+    "main.ad7997e4.css.map": "/akashmadaviweb/static/css/main.ad7997e4.css.map",
     "main.cece7577.js.map": "/akashmadaviweb/static/js/main.cece7577.js.map",
     "453.dc5c8313.chunk.js.map": "/akashmadaviweb/static/js/453.dc5c8313.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3d6b7765.css",
+    "static/css/main.ad7997e4.css",
     "static/js/main.cece7577.js"
   ]
 }
