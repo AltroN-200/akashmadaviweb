@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/akashmadaviweb/static/css/main.e316a184.css",
-    "main.js": "/akashmadaviweb/static/js/main.39fdb754.js",
+    "main.js": "/akashmadaviweb/static/js/main.2730cf43.js",
     "static/js/453.dc5c8313.chunk.js": "/akashmadaviweb/static/js/453.dc5c8313.chunk.js",
     "static/media/Akash.png": "/akashmadaviweb/static/media/Akash.3d15fadfe725ebdab98f.png",
     "static/media/BG.jpg": "/akashmadaviweb/static/media/BG.db707de44e83c33c793d.jpg",
@@ -35,11 +35,11 @@
     "index.html": "/akashmadaviweb/index.html",
     "static/media/search-icons.svg": "/akashmadaviweb/static/media/search-icons.75eba69e52221f0749961b8049f55824.svg",
     "main.e316a184.css.map": "/akashmadaviweb/static/css/main.e316a184.css.map",
-    "main.39fdb754.js.map": "/akashmadaviweb/static/js/main.39fdb754.js.map",
+    "main.2730cf43.js.map": "/akashmadaviweb/static/js/main.2730cf43.js.map",
     "453.dc5c8313.chunk.js.map": "/akashmadaviweb/static/js/453.dc5c8313.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e316a184.css",
-    "static/js/main.39fdb754.js"
+    "static/js/main.2730cf43.js"
   ]
 }
