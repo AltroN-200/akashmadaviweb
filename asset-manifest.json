@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/akashmadaviweb/static/css/main.e316a184.css",
+    "main.css": "/akashmadaviweb/static/css/main.069ce145.css",
     "main.js": "/akashmadaviweb/static/js/main.2730cf43.js",
     "static/js/453.dc5c8313.chunk.js": "/akashmadaviweb/static/js/453.dc5c8313.chunk.js",
     "static/media/Akash.png": "/akashmadaviweb/static/media/Akash.3d15fadfe725ebdab98f.png",
-    "static/media/BG.jpg": "/akashmadaviweb/static/media/BG.db707de44e83c33c793d.jpg",
+    "static/media/BG.jpg": "/akashmadaviweb/static/media/BG.b8b713bc655138572b34.jpg",
     "static/media/insta.png": "/akashmadaviweb/static/media/insta.b11816807f92875b2dbc.png",
     "static/media/whatsapp.png": "/akashmadaviweb/static/media/whatsapp.9ed7f5b78d6110dd4284.png",
     "static/media/twiter.png": "/akashmadaviweb/static/media/twiter.3e0a75ef03a7a0cd96c2.png",
@@ -34,12 +34,12 @@
     "static/media/cloud.png": "/akashmadaviweb/static/media/cloud.c26d84c0c395cebfe467.png",
     "index.html": "/akashmadaviweb/index.html",
     "static/media/search-icons.svg": "/akashmadaviweb/static/media/search-icons.75eba69e52221f0749961b8049f55824.svg",
-    "main.e316a184.css.map": "/akashmadaviweb/static/css/main.e316a184.css.map",
+    "main.069ce145.css.map": "/akashmadaviweb/static/css/main.069ce145.css.map",
     "main.2730cf43.js.map": "/akashmadaviweb/static/js/main.2730cf43.js.map",
     "453.dc5c8313.chunk.js.map": "/akashmadaviweb/static/js/453.dc5c8313.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e316a184.css",
+    "static/css/main.069ce145.css",
     "static/js/main.2730cf43.js"
   ]
 }
