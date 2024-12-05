@@ -2,7 +2,7 @@
   "name": "firstweb",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://AltroN-200.github.io/akashmadaviweb",
+  "homepage": "https://altron-200.github.io/akashmadaviweb",
   "dependencies": {
     "@emailjs/browser": "^4.4.1",
     "@testing-library/jest-dom": "^5.17.0",
